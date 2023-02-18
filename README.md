@@ -14,5 +14,10 @@
     - Pages -  contains all the logical pages. 
     - api.js -  contians the api call using axios
     - app.js - contians all the required compnents for UI.
-    
+ 
+<h1>Technology used</h1>
+- Reactjs - version 18<br/>
+- PrimeReact<br/>
+- moment.js <br/>
+- sass <br/>
 
