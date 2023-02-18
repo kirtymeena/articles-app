@@ -1,13 +1,13 @@
-1. Install all the dependancy: 
+<h1>Install all the dependancy:</h1>
     - go inside the test-app folder 
     - run - npm i
 
-2. Run the application 
+<h1>Run the application</h1>
     - run the following command -  npm start 
 
 
 
-* About the application: 
+<h1>Folder structure:</h1>
 
 -  folder inside src folder
     - components -  contains all the UI components
