@@ -1,0 +1,8 @@
+@use "../utils/mixins" as *;
+@use "../utils/variables" as *;
+@use "../utils/breakpoints" as *;
+
+.card__list {
+// border:2px solid red;
+    @include flex-col($gap:3rem);
+}

@@ -1,0 +1,15 @@
+@use "../utils/mixins" as *;
+@use "../utils/variables" as *;
+
+.navbar {
+  @include flex-row();
+  padding-block: 1.7rem;
+  padding-inline: 1rem;
+  border-bottom: 2px solid $nav-border;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f5;
+}
+
+
+
